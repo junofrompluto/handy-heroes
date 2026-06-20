@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Netlify / build artifacts
+.netlify/
+dist/
+.cache/
+*.zip
+
+# Source imagery — the site inlines ALL images as base64, so nothing in
+# images/ is referenced or needed for deploy. Kept on disk, not committed
+# (it's ~116MB of originals/renders).
+/images/
