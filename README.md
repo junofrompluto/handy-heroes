@@ -44,4 +44,4 @@ python3 -m http.server 8080   # then open http://localhost:8080
 Import the repo in Netlify (publish `.`, no build command — see `netlify.toml`).
 The quote form appears under **Forms** in the Netlify dashboard once deployed.
 
-**Contact:** (305) 877-9902 · info@handyheroes.com
+**Contact:** (305) 877-9902 · HandyHeroesservices@yahoo.com

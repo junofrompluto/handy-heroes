@@ -168,7 +168,7 @@
       const body = encodeURIComponent(
         `Name: ${d.get("name") || ""}\nPhone: ${d.get("phone") || ""}\nEmail: ${d.get("email") || ""}\nServices: ${d.get("services") || ""}\n\n${d.get("message") || ""}`
       );
-      window.location.href = `mailto:info@handyheroes.com?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:HandyHeroesservices@yahoo.com?subject=${subject}&body=${body}`;
     });
   }
 })();
